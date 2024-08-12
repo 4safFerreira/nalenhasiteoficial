@@ -1,0 +1,56 @@
+.col-md-3{
+    margin-top:10px;
+}
+
+.col-md-9{
+    margin-top:10px;
+}
+
+.cabecalho {
+    margin-bottom:30px;
+}
+
+.pao-com-ovo{
+    width:1390px;
+    height:600px;
+}
+
+.title{
+    font-family: MedievalSharp;
+    text-align:center;
+    margin-top:20px;
+}
+.linha{
+    margin-top: 20px;
+}
+
+.egg-bread{
+    margin-right: 20px;
+}
+
+.medievalsharp-regular {
+    font-family: "MedievalSharp", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.sweet-potato{
+    width:140px;
+    height:100px;
+}
+
+.about-us{
+    font-family: Georgia;
+    margin-bottom:30px;
+}
+
+.bread-egg-img {
+    width:1330px;
+    height:550px;
+}
+
+.fogao-a-lenha-img{
+    width:370px;
+    height:450px;
+    margin-bottom:30px;
+}
